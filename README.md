@@ -34,9 +34,9 @@ const andres = {
   experiencia: "20+ años en .NET Ecosystem + IA Generativa",
   nicho: "El puente entre Ingeniería de Software clásica y la IA Generativa",
   habilidadesClave: [
-    "Clean Architecture, SOLID, Microservicios (.NET 8/9)",
+    "Clean Architecture, SOLID, Microservicios (.NET 9/C#)",
     "Agentes de IA: LLMs, n8n, Flowise, RAG, MCP Server",
-    "Voice AI: VAPI, Retell.ai, ElevenLabs",
+    "Voice AI: VAPI, Retell.ai, Zadarma, ElevenLabs",
     "Cloud-native: Docker, Coolify, CI/CD, VPS",
     "Full-stack: React, TypeScript, React Native (Expo), Blazor WebAssembly",
     "Bases de Datos: PostgreSQL, Supabase, Redis, MySQL, SQL Server"
@@ -64,7 +64,7 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
 * 🏗️ **Arquitectura**: Diseño de sistemas SaaS completos — desde modelo de datos hasta despliegue cloud-native con Docker y Coolify.
 * 🤖 **Agentes de IA**: Recepcionistas virtuales, asistentes de agenda, agentes inmobiliarios, médicos, contables y de ventas (WhatsApp).
 * ⚡ **Full-stack**: Backend .NET 9 / Node.js + Python con frontend React/TypeScript y apps móviles Expo/React Native.
-* 📦 **Voice AI Stack**: Retell.ai, VAPI, Zadarma, ElevenLabs.
+* 📦 **Voice AI Stack**: Retell.ai, VAPI, Zadarma, ElevenLabs — agentes de voz con IA en tiempo real.
 * 🔗 **Automatización**: n8n (20+ workflows), Flowise, Evolution API (WhatsApp/Telegram), MCP Server, prompt engineering y .NET Semantic Kernel.
 * 💰 **Productos SaaS**: Inteliai.cl, LectorAI.cl, RestauratuFoto.cl, Kaelis (agenda salones), Zurura Kids (gestión escolar).
 
@@ -106,6 +106,7 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
   <img src="https://img.shields.io/badge/.NET_8/9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8/9"/>
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
+  <img src="https://img.shields.io/badge/Dapper-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper"/>
 </p>
 
 ### Frontend & Mobile
@@ -139,6 +140,7 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
   <img src="https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logoColor=white" alt="VAPI"/>
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Retell.ai-5B21B6?style=for-the-badge&logoColor=white" alt="Retell.ai"/>
 </p>
 
 ### DevOps & Herramientas
@@ -255,7 +257,7 @@ mindmap
       Semantic Kernel
       Agentes Autónomos
       n8n (20+ workflows)
-      Voice AI (VAPI/Retell)
+      Voice AI (VAPI/Retell/ElevenLabs)
       MCP Server
     Productos SaaS
       Full-cycle idea→deploy
@@ -297,10 +299,11 @@ mindmap
 ## 🌱 Actualmente Trabajando En
 
 * 🧠 **Agentes IA multi-canal**: WhatsApp, Telegram, widgets web con RAG y Knowledge Bases avanzadas.
-* 🏍️ **León v11** — Agente de ventas IA para ImportaMotos (México) con MCP Server y cotizador automático.
-* ✂️ **Kaelis** — SaaS de agenda para salones, con i18n Chile/Argentina y pagos con Mercado Pago.
+* 🏍️ **León** — Agente de ventas IA para ImportaMotos con MCP Server, cotizador automático y WhatsApp.
+* ✂️ **Kaelis** — SaaS de agendamiento multi-negocio; i18n Chile/Argentina y pagos con Mercado Pago.
 * 🏫 **Zurura Kids Mobile** — App Expo/React Native para apoderados en iOS y Android.
-* ☁️ **Cloud-native avanzado**: Supabase autoalojado, Coolify multi-ambiente (dev/test/pre/prod).
+* ☁️ **Cloud-native avanzado**: Supabase autoalojado, Coolify multi-ambiente (dev/staging/prod).
+* 🤖 **Inteliai.cl v2** — Nuevos canales: Telegram, widgets web embebibles, RAG con Knowledge Bases avanzadas.
 
 ---
 

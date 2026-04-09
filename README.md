@@ -156,13 +156,18 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andres-MMG&theme=tokyonight" alt="Profile Details" width="100%"/>
+  <br/>
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andres-MMG&theme=tokyonight" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andres-MMG&theme=tokyonight" alt="Top Languages by Repo" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andres-MMG&theme=tokyonight" alt="Top Languages by Commit" />
       </td>
     </tr>
   </table>

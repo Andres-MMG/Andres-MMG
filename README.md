@@ -35,11 +35,11 @@ const andres = {
   nicho: "El puente entre Ingeniería de Software clásica y la IA Generativa",
   habilidadesClave: [
     "Clean Architecture, SOLID, Microservicios (.NET 8/9)",
-    "Agentes de IA: LLMs, n8n, Flowise, RAG",
+    "Agentes de IA: LLMs, n8n, Flowise, RAG, MCP Server",
     "Voice AI: VAPI, Retell.ai, ElevenLabs",
     "Cloud-native: Docker, Coolify, CI/CD, VPS",
-    "Bases de Datos: PostgreSQL, Supabase, Redis, SQL Server",
-    "Frontend: React, TypeScript, Tailwind CSS, Blazor WebAssembly"
+    "Full-stack: React, TypeScript, React Native (Expo), Blazor WebAssembly",
+    "Bases de Datos: PostgreSQL, Supabase, Redis, MySQL, SQL Server"
   ],
   pasiones: ["Clean Architecture", "Innovación en IA", "Mentoría Técnica", "Vibe Coding", "SaaS Products"]
 };
@@ -61,12 +61,12 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
 
 *Ago 2024 – Presente* | Santiago, Chile
 
-* 🏗️ **Arquitectura**: Diseño e implementación de sistemas SaaS completos — desde modelo de datos hasta despliegue cloud-native con Docker y Coolify.
-* 🤖 **Agentes de IA**: Recepcionistas virtuales, asistentes de agenda, agentes inmobiliarios, médicos y contables.
-* ⚡ **Microservicios**: Integración .NET C# y Python con frontend en React/TypeScript; APIs REST.
+* 🏗️ **Arquitectura**: Diseño de sistemas SaaS completos — desde modelo de datos hasta despliegue cloud-native con Docker y Coolify.
+* 🤖 **Agentes de IA**: Recepcionistas virtuales, asistentes de agenda, agentes inmobiliarios, médicos, contables y de ventas (WhatsApp).
+* ⚡ **Full-stack**: Backend .NET 9 / Node.js + Python con frontend React/TypeScript y apps móviles Expo/React Native.
 * 📦 **Voice AI Stack**: Retell.ai, VAPI, Zadarma, ElevenLabs.
-* 🔗 **Automatización**: n8n, Flowise, Evolution API (WhatsApp/Telegram), Chatwoot; prompt engineering y .NET Semantic Kernel.
-* 💰 **Productos SaaS**: Inteliai.cl, LectorAI.cl, RestauratuFoto.cl — ciclo completo desde idea hasta monetización con Mercado Pago.
+* 🔗 **Automatización**: n8n (20+ workflows), Flowise, Evolution API (WhatsApp/Telegram), MCP Server, prompt engineering y .NET Semantic Kernel.
+* 💰 **Productos SaaS**: Inteliai.cl, LectorAI.cl, RestauratuFoto.cl, Kaelis (agenda salones), Zurura Kids (gestión escolar).
 
 ### 🏦 Sermaluc — *Ingeniero de Software / Jefe de Proyectos TI*
 
@@ -82,9 +82,8 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
 *1998 – 2010* | Santiago, Chile
 
 * **Newsystems Ltda.** (2001–2007): Desarrollo y mantenimiento de plataformas ColWeb® y módulos para Escuelas de Conductores.
-* **Salas Consultoría y Asociados** (2000–2001): Implementación de Digital Dashboard y Cubos OLAP para clientes como Microsoft Chile y Compaq.
+* **Salas Consultoría y Asociados** (2000–2001): Digital Dashboard y Cubos OLAP para Microsoft Chile y Compaq.
 * **Clínica Santiago** (1999–2000): Sistemas de Gestión Clínica; módulos de facturación y reportes.
-* **NetPlus Gestión Informática** (1998–1999): Módulos mantenedores en Visual Basic 5.0 para proyectos gubernamentales.
 
 ---
 
@@ -107,7 +106,6 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
   <img src="https://img.shields.io/badge/.NET_8/9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8/9"/>
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 ### Frontend & Mobile
@@ -116,7 +114,8 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
   <img src="https://skillicons.dev/icons?i=blazor,react,html,css,js,ts" alt="Frontend"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
+  <img src="https://img.shields.io/badge/Expo_React_Native-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo RN"/>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </p>
 
 ### Bases de Datos & Cloud
@@ -180,39 +179,59 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
       <td align="center" width="33%">
         🤖 <b>Inteliai.cl</b><br/>
         Plataforma SaaS de agentes IA<br/>
-        <b>n8n + Supabase + RAG + WhatsApp</b><br/>
+        <b>n8n · Supabase · RAG · WhatsApp · Telegram</b><br/>
         <a href="https://inteliai.cl">🔗 Ver proyecto</a>
       </td>
       <td align="center" width="33%">
         📊 <b>LectorAI.cl</b><br/>
         Análisis financiero PYME con IA<br/>
-        <b>React + Supabase + OpenAI + IFRS</b><br/>
+        <b>React · Supabase · OpenAI · IFRS</b><br/>
         <a href="https://lectorai.cl">🔗 Ver proyecto</a>
       </td>
       <td align="center" width="33%">
-        🖼️ <b>RestauratuFoto.cl</b><br/>
-        Restauración de fotos con IA<br/>
-        <b>n8n + Mercado Pago + React</b><br/>
-        <a href="https://restauratufoto.cl">🔗 Ver proyecto</a>
+        🏫 <b>Zurura Kids</b><br/>
+        Gestión escolar: web + app móvil<br/>
+        <b>.NET 9 · React · Expo/React Native · Supabase</b><br/>
+        <a href="https://app.zururakids.com">🔗 Ver proyecto</a>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        🏦 <b>App Regional - Banco Central</b><br/>
+        ✂️ <b>Kaelis — Agenda Salones</b><br/>
+        SaaS de agendamiento multi-negocio<br/>
+        <b>React · Astro · Supabase · Mercado Pago</b><br/>
+        <a href="https://kaelis.io">🔗 Ver proyecto</a>
+      </td>
+      <td align="center" width="33%">
+        🏍️ <b>ImportaMotos — Agente León</b><br/>
+        Agente de ventas IA en WhatsApp<br/>
+        <b>Node.js · OpenAI · Evolution API · n8n · MySQL</b><br/>
+        <a href="https://andresmmartinez.com">🔗 Portfolio</a>
+      </td>
+      <td align="center" width="33%">
+        🅿️ <b>EasyPark Plus</b><br/>
+        Portal de reservas de estacionamiento<br/>
+        <b>React · TypeScript · Supabase · TanStack Query</b><br/>
+        <a href="https://andresmmartinez.com">🔗 Portfolio</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        🏦 <b>App Regional — Banco Central</b><br/>
         Dashboard estadísticas en tiempo real<br/>
-        <b>.NET + Blazor WebAssembly + MAUI</b><br/>
+        <b>.NET · Blazor WebAssembly · .NET MAUI</b><br/>
         <a href="https://si3.bcentral.cl/estadisticas/Principal1/enlaces/aplicaciones/app_regional.html">🔗 Ver proyecto</a>
       </td>
       <td align="center" width="33%">
-        🐍 <b>Django SaaS Boilerplate</b><br/>
-        Template open-source para SaaS<br/>
-        <b>Django + Python + Docker + Multi-tenant</b><br/>
-        <a href="https://github.com/Andres-MMG/django-saas-boilerplate">🔗 Ver código</a>
+        🖼️ <b>RestauratuFoto.cl</b><br/>
+        Restauración de fotos con IA<br/>
+        <b>n8n · Mercado Pago · React · Computer Vision</b><br/>
+        <a href="https://restauratufoto.cl">🔗 Ver proyecto</a>
       </td>
       <td align="center" width="33%">
         💧 <b>OK Fugas / Dr. House</b><br/>
         A/B Testing: marketing tradicional vs IA<br/>
-        <b>React + n8n + Instagram/Facebook Auto</b><br/>
+        <b>React · n8n · Instagram/Facebook Auto</b><br/>
         <a href="https://www.okfugas.cl">🔗 Ver proyecto</a>
       </td>
     </tr>
@@ -235,18 +254,25 @@ mindmap
       Prompt Engineering
       Semantic Kernel
       Agentes Autónomos
-      n8n & Flowise
+      n8n (20+ workflows)
       Voice AI (VAPI/Retell)
+      MCP Server
     Productos SaaS
-      Full-cycle desde idea a deploy
+      Full-cycle idea→deploy
       Monetización Mercado Pago
       RAG & Knowledge Base
       Multi-canal WhatsApp/Telegram
+      Multi-tenant SaaS
     DevOps & Cloud
       Docker & Contenedores
       CI/CD GitLab
       Coolify / VPS
-      Supabase & PostgreSQL
+      Supabase autoalojado
+    Full-stack
+      React + TypeScript
+      Expo React Native
+      Astro
+      Blazor WebAssembly
     Liderazgo
       Gestión de Equipos
       Agile/Scrum
@@ -262,17 +288,19 @@ mindmap
 * 🚀 Liderazgo de proyectos **críticos del sector bancario** (Banco Central, Banco Itaú, BancoEstado).
 * 🤖 **Fundador de Inteliai.cl** — plataforma SaaS de agentes de IA con RAG, WhatsApp y Telegram.
 * 📊 **LectorAI.cl** — automatización de análisis financiero IFRS para PYME con IA.
+* 🏫 **Zurura Kids** — plataforma escolar completa (.NET 9 + React + Expo/React Native) en producción.
 * 🌉 **El puente .NET + IA**: perfil único que combina arquitectura enterprise sólida con IA Generativa.
-* 🎓 Mentor técnico y **evangelista de buenas prácticas** de arquitectura y Vibe Coding.
+* 🎓 Mentor técnico y **evangelista de Vibe Coding** y arquitecturas modernas.
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Actualmente Trabajando En
 
-* 🧠 **Agentes de IA avanzados**: Multi-agent systems, MCP (Model Context Protocol), tool-calling patterns.
-* 🐍 **Django + Python para SaaS**: boilerplate escalable, multi-tenancy y monetización.
-* ☁️ **Cloud-native avanzado**: Kubernetes, service mesh y observabilidad.
-* 🔊 **Voice AI de nueva generación**: latencia ultra-baja, modelos STT/TTS propios, conversational AI.
+* 🧠 **Agentes IA multi-canal**: WhatsApp, Telegram, widgets web con RAG y Knowledge Bases avanzadas.
+* 🏍️ **León v11** — Agente de ventas IA para ImportaMotos (México) con MCP Server y cotizador automático.
+* ✂️ **Kaelis** — SaaS de agenda para salones, con i18n Chile/Argentina y pagos con Mercado Pago.
+* 🏫 **Zurura Kids Mobile** — App Expo/React Native para apoderados en iOS y Android.
+* ☁️ **Cloud-native avanzado**: Supabase autoalojado, Coolify multi-ambiente (dev/test/pre/prod).
 
 ---
 
@@ -280,8 +308,8 @@ mindmap
 
 > "La tecnología más poderosa es aquella que resuelve problemas reales de negocio."
 
-¿Tienes un proyecto en .NET que necesita escalar? ¿Quieres integrar IA en tus procesos?
-¿Buscas un Arquitecto Senior con visión de negocio? ¡Conversemos!
+¿Tienes un proyecto .NET que necesita escalar? ¿Quieres integrar IA en tus procesos?
+¿Buscas un Arquitecto Senior con visión de negocio y ejecución end-to-end? ¡Conversemos!
 
 <div align="center">
   <a href="https://andresmmartinez.com" target="_blank">
@@ -302,5 +330,5 @@ mindmap
 </div>
 
 <div align="center">
-  *"Construyendo arquitecturas sólidas, integrando IA inteligente, una línea de código a la vez"* 💻✨
+  <i>"Construyendo arquitecturas sólidas, integrando IA inteligente, una línea de código a la vez"</i> 💻✨
 </div>

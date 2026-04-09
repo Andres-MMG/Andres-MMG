@@ -159,16 +159,16 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-MMG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-MMG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Andres-MMG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

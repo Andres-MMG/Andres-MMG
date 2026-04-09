@@ -199,7 +199,7 @@ impulsar la adopción de buenas prácticas y evangelizar tecnologías emergentes
         🏫 <b>Zurura Kids</b><br/>
         Gestión escolar: web + app móvil<br/>
         <b>.NET 9 · React · Expo/React Native · Supabase</b><br/>
-        <a href="https://app.zururakids.com">🔗 Ver proyecto</a>
+        <a href="https://zururakids.com">🔗 Ver proyecto</a>
       </td>
     </tr>
     <tr>
